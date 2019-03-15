@@ -3,7 +3,7 @@
 Mac用の英字キーボードでUbuntuを使うためのPythonスクリプトです
 
 
-moozさんが作成したxkeysnail(https://qiita.com/mooz@github/items/c5f25f27847333dd0b37)を使用してます。
+moozさんが作成した[xkeysnail](https://qiita.com/mooz@github/items/c5f25f27847333dd0b37)を使用してます。
 
 
 ### xkeysnailインストール
